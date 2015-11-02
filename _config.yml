@@ -1,0 +1,23 @@
+name: Test123
+favicon: null
+layout_spectrum: 0.04996300535276532
+typography_spectrum: 0.25632903818041086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.37734583602286875
+  lightness: 0.950388852506876
+  saturation: 0.7835993736516684
+  rhythmicContrast: 0.18955047824420035
+purpose: []
